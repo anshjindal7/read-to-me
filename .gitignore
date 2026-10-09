@@ -1,0 +1,11 @@
+build/
+.DS_Store
+
+# Never commit book photos or generated audiobooks
+*.jpg
+*.jpeg
+*.heic
+*.heif
+*.png
+*.m4b
+*.m4a
